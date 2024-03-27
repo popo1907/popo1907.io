@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vêtements</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        /* Ajoutez votre propre CSS pour le thème des vêtements ici */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenue sur notre site de vêtements</h1>
+        <p>Explorez notre collection de vêtements tendance.</p>
+        <!-- Ajoutez du contenu supplémentaire ici -->
+    </div>
+</body>
+</html>
